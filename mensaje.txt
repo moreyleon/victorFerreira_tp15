@@ -1,0 +1,4 @@
+"Esta apliacion fue creada con el fin de faciltar y brindar un 
+mejor servicio al usuario"
+
+module.exports =  mensaje;
